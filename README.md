@@ -18,7 +18,7 @@ This project is a static webpage that showcases a QR code and encourages users t
 
 ### Screenshot
 
-![](./screenshot.jpg)
+(https://github.com/leoemn/QRcode/blob/main/screenshot.png)
 
 
 
